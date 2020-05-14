@@ -1,5 +1,5 @@
 
-# Curso-ES6-modulo02
+# Curso-ES6-modulo03
 Aplicação das novas tecnologias da linguagem JavaScript a partir da versão ES6+.
 
 
@@ -14,12 +14,12 @@ Aplicação das novas tecnologias da linguagem JavaScript a partir da versão ES
 
 ### Instalando dependências
 <ul>
-  <li>Dentro da pasta modulo02, execute o comando no terminal:</li>
+  <li>No terminal execute o comando:
   
 ```
 yarn
 ```
-</ul>
+Obs: Certifique-se de executar esse comando no diretório da pasta com os arquivos.</li></ul>
 
 ### Configurando o webpack-dev-server
 
@@ -38,7 +38,8 @@ http://localhost:8080
 
 ### Desafios
 <ul>
-  <li>Para visualizar os desafios abra as ferramentas do desenvolvedor, na aba console.</li>
+  <li>Na pasta src, selecione qual desafio deseja ver e remova o comentário dele.</li>
+  <li>Para visualizar os desafios, acesse o servidor gerado pelo webpack. Abra as ferramentas do desenvolvedor, na aba console.</li>
 </ul>
 
 
